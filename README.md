@@ -60,7 +60,7 @@ I'm a dedicated Software developer with a passion for creating efficient, scalab
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+### 💡 *"Every line of code is a step toward building something better."*
 
 ⭐️ From [Tanavi Pandao](https://github.com/tanvip7887-hub)
 

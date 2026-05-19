@@ -43,11 +43,11 @@ I'm a dedicated Software developer with a passion for creating efficient, scalab
 
 <div align="center">
 
-![Tanavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvi7887-hub&show_icons=true&theme=radical&hide_border=true)
+![Tanavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvip7887-hub&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi7887-hub&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvip7887-hub&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvi7887-hub&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvip7887-hub&theme=radical&hide_border=true)
 
 </div>
 
